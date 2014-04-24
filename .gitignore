@@ -1,0 +1,12 @@
+# python
+*.pyc
+*.__pycache__/
+
+# Editor
+*.sublime-project
+*.sublime-workspace
+
+# misc
+*.ipynb_checkpoints
+data.csv
+test.csv
